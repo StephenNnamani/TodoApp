@@ -1,0 +1,14 @@
+C:\Users\STephenScripts\Desktop\C# Apps\EFCoreApp\EFCoreAppDAL\bin\Debug\net6.0\EFCoreAppDAL.deps.json
+C:\Users\STephenScripts\Desktop\C# Apps\EFCoreApp\EFCoreAppDAL\bin\Debug\net6.0\EFCoreAppDAL.runtimeconfig.json
+C:\Users\STephenScripts\Desktop\C# Apps\EFCoreApp\EFCoreAppDAL\bin\Debug\net6.0\EFCoreAppDAL.dll
+C:\Users\STephenScripts\Desktop\C# Apps\EFCoreApp\EFCoreAppDAL\bin\Debug\net6.0\EFCoreAppDAL.pdb
+C:\Users\STephenScripts\Desktop\C# Apps\EFCoreApp\EFCoreAppDAL\obj\Debug\net6.0\EFCoreAppDAL.csproj.AssemblyReference.cache
+C:\Users\STephenScripts\Desktop\C# Apps\EFCoreApp\EFCoreAppDAL\obj\Debug\net6.0\EFCoreAppDAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STephenScripts\Desktop\C# Apps\EFCoreApp\EFCoreAppDAL\obj\Debug\net6.0\EFCoreAppDAL.AssemblyInfoInputs.cache
+C:\Users\STephenScripts\Desktop\C# Apps\EFCoreApp\EFCoreAppDAL\obj\Debug\net6.0\EFCoreAppDAL.AssemblyInfo.cs
+C:\Users\STephenScripts\Desktop\C# Apps\EFCoreApp\EFCoreAppDAL\obj\Debug\net6.0\EFCoreAppDAL.csproj.CoreCompileInputs.cache
+C:\Users\STephenScripts\Desktop\C# Apps\EFCoreApp\EFCoreAppDAL\obj\Debug\net6.0\EFCoreAppDAL.dll
+C:\Users\STephenScripts\Desktop\C# Apps\EFCoreApp\EFCoreAppDAL\obj\Debug\net6.0\refint\EFCoreAppDAL.dll
+C:\Users\STephenScripts\Desktop\C# Apps\EFCoreApp\EFCoreAppDAL\obj\Debug\net6.0\EFCoreAppDAL.pdb
+C:\Users\STephenScripts\Desktop\C# Apps\EFCoreApp\EFCoreAppDAL\obj\Debug\net6.0\EFCoreAppDAL.genruntimeconfig.cache
+C:\Users\STephenScripts\Desktop\C# Apps\EFCoreApp\EFCoreAppDAL\obj\Debug\net6.0\ref\EFCoreAppDAL.dll
